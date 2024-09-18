@@ -6,9 +6,9 @@ Project by,
 1. Jitendra Sai Vigrahala
 
 
-Research Questions
+Research Question
 
-The three research questions being explored in this project are,
+
 
 1. Predict whether a developer’s issue will be resolved based on the initial prompt with ChatGPT?
 
