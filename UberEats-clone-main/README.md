@@ -1,0 +1,1 @@
+Developed a microservices-based food delivery platform with 5 Spring Boot services, handling 500+ concurrent users. Deployed on AWS EKS with Docker/Kubernetes, achieving 95% uptime. Built a responsive Angular frontend, reducing page load time to under 3 seconds.
